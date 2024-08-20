@@ -144,8 +144,8 @@ a.source:visited {
 
 /* Storymap logo image above the title */
 #logo {
-  height: 60px;
-  line-height: 60px;
+  height: 100px;
+  line-height: 100px;
   text-align: center;
   padding: 10px;
   max-width: 100%;
