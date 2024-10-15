@@ -1,5 +1,5 @@
 ## Live links to webpage and google sheet 
-- Leaflet Map https://rrehwaldt.github.io/panke-storymap
+- Leaflet Map https://hydrology-society.github.io/river_storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1RfCF_QjA00RdYUMegHMyOTpxScnQt02dtQyBTR6eqnA/edit?gid=0#gid=0
 
 ## Sources
